@@ -1,0 +1,6 @@
+# no .log files
+*.log
+
+# but do track error.log 
+!error.log
+
